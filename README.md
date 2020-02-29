@@ -1,9 +1,11 @@
 # GameMakerStudioProject
 This project and all of its assets were developed by Hunter McCormick.
-This game was made as an assignment for the CS 339 Game Design I course offered at Jacksonville State University. 
-For this assignment, we were to recreate the classic game Frogger and make it our own. 
+This game was made as an assignment for the CS 339 Game Design I course offered at Jacksonville State University.
+This project was started on January 6th, 2019 and was completed on January 14th, 2019. 
+For this assignment, we were tasked to recreate the classic game Frogger and make our own version of it. 
 The game was developed using the Game Maker Studio 2 software. 
 The game was programmed in the software's own programming language, GML (Game Maker Language).
+All of the game's art was made using the in-engine art tools. 
 This game was created to closely mimic the 1981 arcade version of Frogger developed by Konami. 
 The objective of the game is to get the frog across a road and river to collect four lily pads. 
 Once all of the lily pads have been collected, then the player wins the game. 
@@ -19,4 +21,8 @@ There are logs in the river that move horizontally from the left and right sides
 The lily pads are positioned at different points across the top of the screen. 
 Once a player comes into contact with one of the lily pads, the lily pad disappears, and the player is teleported to the beginning of the level.
 There is a counter at the top left of the screen that displays how many lily pads the player has collected.
+Once the player has made contact with a lily pad, the lily pad counter will increment by one. 
+
+This repository contains all of the files for the game. 
+In order to run the game, you will need to have Game Maker Studio 2 installed on your device. 
 
